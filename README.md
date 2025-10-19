@@ -1,5 +1,4 @@
 # Global-Macro-Sentiment-Analyzer
-# Global Macro Sentiment Analyzer
 
 ## 🌍 Overview
 This project tracks **market sentiment across asset classes** (commodities, bonds, FX) by analyzing real-world financial news, macroeconomic data, and price trends.  
