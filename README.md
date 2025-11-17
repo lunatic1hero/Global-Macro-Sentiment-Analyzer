@@ -1,4 +1,5 @@
-# AssetInsight
+# Global-Macro-Sentiment-Analyzer
+
 
 AssetInsight is a lightweight news-driven sentiment analysis system designed to evaluate bullish, bearish, or neutral sentiment for any financial asset. The tool works by fetching news links, extracting readable article content, and using either an LLM (OpenAI GPT models) or a free keyword-based heuristic to determine sentiment. The project is a refactored and extended version of a news-sentiment analyzer with a cleaner module structure, caching, provider abstraction, and a command-line interface.
 
