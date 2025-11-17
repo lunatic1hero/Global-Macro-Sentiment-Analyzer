@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+readability-lxml
+lxml
+tiktoken
+openai
+click
+python-dotenv
+pytest
